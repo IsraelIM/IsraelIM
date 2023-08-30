@@ -37,6 +37,7 @@ Here are some ideas to get you started:
     <img align="center" alt="HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt=".Net" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/456px-Microsoft_.NET_logo.svg.png">
     <img align="center" alt="bootstrap" height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png">
+    <img align="center" alt="wordPress" height="50" width="50" src="https://img.freepik.com/icones-gratis/wordpress_318-183439.jpg?w=360">
     <img align="center" alt="github" height="50" width="50" src="https://iconmonstr.com/wp-content/g/gd/makefg.php?i=../releases/preview/2012/png/iconmonstr-github-1.png&r=0&g=0&b=0">
    
   </div>
