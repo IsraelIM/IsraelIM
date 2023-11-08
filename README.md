@@ -42,7 +42,7 @@ Here are some ideas to get you started:
    
   </div>
 
-   <h1 align="center"> " Talvez o Nosso Proposito seje só Viver "</h1>
+   <h1 align="center"> " Se Não escolheres o teu Proposito, lhe será atribuido qualquer um  "</h1>
    
 <br>
   <div align="center">
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
  
 <div align="center">
   <a href="https://github.com/israelim">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=tetemorais&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tetemorais&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=israelim&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelim&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
