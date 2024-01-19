@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-   <h2 align="center">Ola!  <a href="https://www.linkedin.com/in/israel-nascimento-morais/">😃️ Israel Nascimento Morais 👋</a></h2>
+   <h2 align="center">Ola!  <a href="https://profile-israel.netlify.app/">😃️ Israel Nascimento Morais 👋</a></h2>
    <h3  align="center"> Software Developer(.NET DEVELOPER)</h3>
    <p>
     É um prazer me apresentar a vocês como um experiente programador com mais de 8 anos de experiência nas tecnologias ASP .Net, Ao longo dos anos, tive a honra de trabalhar
